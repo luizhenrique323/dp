@@ -1,0 +1,5 @@
+# Schema for the configuration files of the vaicairnoenem theme.
+
+vaicairnoenem.settings:
+  type: theme_settings
+  label: 'vaicairnoenem settings'
